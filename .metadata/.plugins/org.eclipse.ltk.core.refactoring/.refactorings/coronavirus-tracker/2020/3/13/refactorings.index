@@ -1,0 +1,12 @@
+1585375759915	Delete elements
+1585375787695	Delete element
+1585375872365	Rename package 'io.varun.coronavirustracker.io.services'
+1585375908327	Copy package
+1585375913182	Delete element
+1585375925186	Delete element
+1585375988800	Delete element
+1585380951546	Encapsulate field 'allStats'
+1585387896835	Encapsulate field 'diffFromPrevDay'
+1585389432548	Rename local variable 'totalReportedCases'
+1585392654220	Rename resource 'home.html'
+1585392729322	Rename resource 'index.html'
